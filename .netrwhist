@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/juniorguerra/Documents/Courses/Vim'
+let g:netrw_dirhist_2='/home/juniorguerra/Documents/Courses'
+let g:netrw_dirhist_1='/home/juniorguerra/Documents/Courses/Vim'
+let g:netrw_dirhist_0='/home/juniorguerra/Documents/Courses'
+let g:netrw_dirhist_9='/home/juniorguerra/Documents/Courses/Vim'
+let g:netrw_dirhist_8='/home/juniorguerra/Documents/Courses'
+let g:netrw_dirhist_7='/home/juniorguerra/Documents'
+let g:netrw_dirhist_6='/home/juniorguerra/Documents/Courses'
+let g:netrw_dirhist_5='/home/juniorguerra/Documents/Courses/Vim'
+let g:netrw_dirhist_4='/home/juniorguerra/Documents/Courses'
